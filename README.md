@@ -1,0 +1,2 @@
+# mygit
+percobaan git remote
